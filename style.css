@@ -1,0 +1,12 @@
+header {
+    display: flex;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+
+table {
+    border: solid 1px;
+}
